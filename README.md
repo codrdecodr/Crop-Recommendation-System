@@ -1,4 +1,4 @@
-### 📌 README.md for Crop Recommendation System  
+
 # Crop Recommendation System
 This project predicts the best crop to grow based on soil conditions using a machine learning model.
 
