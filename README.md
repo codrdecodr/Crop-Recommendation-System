@@ -40,6 +40,3 @@ python train_model.py
 - `Crop-recommendation.csv` - Dataset  
 - `requirements.txt` - Dependencies  
 
----
-
-That's it! 🚀
